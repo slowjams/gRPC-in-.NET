@@ -1,0 +1,71 @@
+Welcome
+What will you learn in this course?
+Who is this course for and prerequisites
+What is gRPC?
+Where gRPC fits in the API ecosystem
+gRPC vs WCF
+gRPC vs RESTful APIs
+When to use gRPC
+Introduction to Protocol Buffers
+What is a .proto file?
+Syntax
+Scalar types
+Enums
+Well-known types
+Nullable types
+Any
+OneOf
+Language constructs
+Creating your first gRPC project
+Analyzing the project structure
+Running the default template project
+Code generation
+gRPC types
+Defining a gRPC service
+Implementing a gRPC service
+Unary Type
+Client Streaming Type
+Server Streaming Type
+Bi-Directional Streaming Type
+Creating & configuring a gRPC client project
+What is a Channel and how can we use it?
+Creating a channel
+Configuring a channel
+Creating a client
+Consuming a Unary Type method
+Consuming a Client Streaming method
+Consuming a Server Streaming method
+Consuming a Bi-Directional Streaming method
+Setting call deadlines
+Sending cancelation requests
+Consuming gRPC from an MVC app
+HTTP Request and Response in the context of gRPC
+Metadata
+Trailers
+gRPC status codes
+Treating and working with Exceptions
+Introducing interceptors
+Client interceptors
+Implementing client interceptors
+Server interceptors
+Implementing server interceptors
+Middlewares vs Interceptors
+Enabling compression
+Avoiding compression
+Client side load balancing
+Choosing another policy
+Transient fault handling in gRPC
+Implementing a retry policy
+Implementing a hedging policy
+Writing unit tests
+Writing integration tests
+Using Postman
+Security levels
+Adding authentication and authorization to the server
+Provide call credentials in the client application
+Health checks
+Discovering services with Reflection
+Implementing transcoding
+grpc-web
+Code-first gRPC
+Conclusion
